@@ -1,0 +1,6 @@
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Interface03\bin\Debug\Interface03.exe.config
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Interface03\bin\Debug\Interface03.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Interface03\bin\Debug\Interface03.pdb
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Interface03\obj\Debug\Interface03.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Interface03\obj\Debug\Interface03.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Interface03\obj\Debug\Interface03.pdb

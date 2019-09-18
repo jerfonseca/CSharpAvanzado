@@ -1,0 +1,6 @@
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ConversionImplicita\bin\Debug\ConversionImplicita.exe.config
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ConversionImplicita\bin\Debug\ConversionImplicita.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ConversionImplicita\bin\Debug\ConversionImplicita.pdb
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ConversionImplicita\obj\Debug\ConversionImplicita.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ConversionImplicita\obj\Debug\ConversionImplicita.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ConversionImplicita\obj\Debug\ConversionImplicita.pdb

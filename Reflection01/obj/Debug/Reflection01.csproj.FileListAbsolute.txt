@@ -1,0 +1,7 @@
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Reflection01\bin\Debug\Reflection01.exe.config
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Reflection01\bin\Debug\Reflection01.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Reflection01\bin\Debug\Reflection01.pdb
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Reflection01\obj\Debug\Reflection01.csprojAssemblyReference.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Reflection01\obj\Debug\Reflection01.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Reflection01\obj\Debug\Reflection01.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Reflection01\obj\Debug\Reflection01.pdb

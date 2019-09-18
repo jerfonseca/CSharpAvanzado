@@ -1,0 +1,7 @@
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Colecciones01ArrayList\bin\Debug\Colecciones01ArrayList.exe.config
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Colecciones01ArrayList\bin\Debug\Colecciones01ArrayList.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Colecciones01ArrayList\bin\Debug\Colecciones01ArrayList.pdb
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Colecciones01ArrayList\obj\Debug\Colecciones01ArrayList.csprojAssemblyReference.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Colecciones01ArrayList\obj\Debug\Colecciones01ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Colecciones01ArrayList\obj\Debug\Colecciones01ArrayList.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Colecciones01ArrayList\obj\Debug\Colecciones01ArrayList.pdb

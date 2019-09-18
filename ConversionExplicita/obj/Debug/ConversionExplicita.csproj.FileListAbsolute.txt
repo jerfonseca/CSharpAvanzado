@@ -1,0 +1,7 @@
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ConversionExplicita\bin\Debug\ConversionExplicita.exe.config
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ConversionExplicita\bin\Debug\ConversionExplicita.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ConversionExplicita\bin\Debug\ConversionExplicita.pdb
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ConversionExplicita\obj\Debug\ConversionExplicita.csprojAssemblyReference.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ConversionExplicita\obj\Debug\ConversionExplicita.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ConversionExplicita\obj\Debug\ConversionExplicita.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ConversionExplicita\obj\Debug\ConversionExplicita.pdb

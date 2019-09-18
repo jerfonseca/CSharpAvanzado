@@ -1,0 +1,7 @@
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ExcepcionAplicacion\bin\Debug\ExcepcionAplicacion.exe.config
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ExcepcionAplicacion\bin\Debug\ExcepcionAplicacion.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ExcepcionAplicacion\bin\Debug\ExcepcionAplicacion.pdb
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ExcepcionAplicacion\obj\Debug\ExcepcionesAplicacion.csprojAssemblyReference.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ExcepcionAplicacion\obj\Debug\ExcepcionesAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ExcepcionAplicacion\obj\Debug\ExcepcionAplicacion.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\ExcepcionAplicacion\obj\Debug\ExcepcionAplicacion.pdb

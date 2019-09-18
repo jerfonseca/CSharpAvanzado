@@ -1,0 +1,7 @@
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Colecciones01HashTable\bin\Debug\Colecciones01HashTable.exe.config
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Colecciones01HashTable\bin\Debug\Colecciones01HashTable.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Colecciones01HashTable\bin\Debug\Colecciones01HashTable.pdb
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Colecciones01HashTable\obj\Debug\Colecciones01HashTable.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Colecciones01HashTable\obj\Debug\Colecciones01HashTable.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Colecciones01HashTable\obj\Debug\Colecciones01HashTable.pdb
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Colecciones01HashTable\obj\Debug\Colecciones01HashTable.csprojAssemblyReference.cache

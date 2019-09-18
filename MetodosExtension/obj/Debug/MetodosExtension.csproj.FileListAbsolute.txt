@@ -1,0 +1,7 @@
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\MetodosExtension\bin\Debug\MetodosExtension.exe.config
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\MetodosExtension\bin\Debug\MetodosExtension.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\MetodosExtension\bin\Debug\MetodosExtension.pdb
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\MetodosExtension\obj\Debug\MetodosExtension.csprojAssemblyReference.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\MetodosExtension\obj\Debug\MetodosExtension.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\MetodosExtension\obj\Debug\MetodosExtension.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\MetodosExtension\obj\Debug\MetodosExtension.pdb

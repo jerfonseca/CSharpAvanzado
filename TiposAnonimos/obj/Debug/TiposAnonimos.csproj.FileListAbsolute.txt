@@ -1,0 +1,6 @@
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\TiposAnonimos\bin\Debug\TiposAnonimos.exe.config
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\TiposAnonimos\bin\Debug\TiposAnonimos.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\TiposAnonimos\bin\Debug\TiposAnonimos.pdb
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\TiposAnonimos\obj\Debug\TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\TiposAnonimos\obj\Debug\TiposAnonimos.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\TiposAnonimos\obj\Debug\TiposAnonimos.pdb

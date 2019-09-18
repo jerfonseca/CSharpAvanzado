@@ -1,0 +1,7 @@
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Punteros\bin\Debug\Punteros.exe.config
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Punteros\bin\Debug\Punteros.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Punteros\bin\Debug\Punteros.pdb
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Punteros\obj\Debug\Punteros.csprojAssemblyReference.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Punteros\obj\Debug\Punteros.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Punteros\obj\Debug\Punteros.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\Punteros\obj\Debug\Punteros.pdb

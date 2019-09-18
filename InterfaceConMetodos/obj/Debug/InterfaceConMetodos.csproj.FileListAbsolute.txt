@@ -1,0 +1,7 @@
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\InterfaceConMetodos\bin\Debug\InterfaceConMetodos.exe.config
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\InterfaceConMetodos\bin\Debug\InterfaceConMetodos.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\InterfaceConMetodos\bin\Debug\InterfaceConMetodos.pdb
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\InterfaceConMetodos\obj\Debug\InterfaceConMetodos.csprojAssemblyReference.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\InterfaceConMetodos\obj\Debug\InterfaceConMetodos.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\InterfaceConMetodos\obj\Debug\InterfaceConMetodos.exe
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\InterfaceConMetodos\obj\Debug\InterfaceConMetodos.pdb

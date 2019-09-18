@@ -1,0 +1,2 @@
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\CSharpAvanzado\obj\Debug\CSharpAvanzado.csprojAssemblyReference.cache
+C:\Users\HP PROBOOK\source\repos\CSharpAvanzado\CSharpAvanzado\obj\Debug\CSharpAvanzado.csproj.CoreCompileInputs.cache
